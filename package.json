@@ -1,0 +1,16 @@
+{
+  "name": "cerulean-sky-logger",
+  "version": "0.1.0",
+  "description": "Logging Utility For Cerulean Sky",
+  "main": "./src/logger.interface.js",
+  "author": {
+    "name": "mad-hater",
+    "email": "mad-hater-dev@outlook.com"
+  },
+  "repository" :  { 
+    "type" : "git",
+    "url" : "https://github.com/madhater/cerulean-sky-logger.git"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
